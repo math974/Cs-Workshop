@@ -4,7 +4,7 @@ Welcome to the workshop! We'll be building a simple web application using **C#**
 
 ---
 
-## **Activity 1: Retrieve and Display Data (30 mins)**
+## **Activity 1: Retrieve and Display Data**
 **Goal:** Connect to the SQLite database, retrieve the list of books, and display them in a Blazor table.
 
 **Learning Points:**
@@ -16,7 +16,7 @@ Welcome to the workshop! We'll be building a simple web application using **C#**
 
 ---
 
-## **Activity 2: Add, Edit, and Delete Books (30 mins)**
+## **Activity 2: Add, Edit, and Delete Books**
 **Goal:** Implement basic **CRUD operations**.
 
 **Learning Points:**
@@ -26,7 +26,7 @@ Welcome to the workshop! We'll be building a simple web application using **C#**
 
 ---
 
-## **Activity 3: Create Favorite Lists (20-30 mins)**
+## **Activity 3: Create Favorite Lists**
 **Goal:** Allow users to mark books as favorites and create multiple favorite lists.
 
 **Learning Points:**
@@ -36,7 +36,7 @@ Welcome to the workshop! We'll be building a simple web application using **C#**
 
 ---
 
-## **Activity 4: View Book Details (20 mins)**
+## **Activity 4: View Book Details**
 **Goal:** Click on a book to view its detailed information.
 
 **Learning Points:**
@@ -46,7 +46,7 @@ Welcome to the workshop! We'll be building a simple web application using **C#**
 
 ---
 
-## **Activity 5: Search and Filter Books (20 mins)**
+## **Activity 5: Search and Filter Books**
 **Goal:** Implement a simple **search bar** to filter books by title or author.
 
 **Learning Points:**
