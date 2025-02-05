@@ -2,17 +2,19 @@
 
 Welcome to the workshop! We'll be building a simple web application using **C#**, **.NET**, **Blazor**, and **SQLite**. This guide will walk you through each activity, focusing on C# concepts while using Blazor to display the results.
 
+First you will need to install SQLite and .NET 8, my version for example is 8.0.112
+
 ---
 
 ## **Activity 1: Retrieve and Display Data**
 **Goal:** Connect to the SQLite database, retrieve the list of books, and display them in a Blazor table.
 
 **Learning Points:**
-- Setting up a **SQLite connection** in C# (`System.Data.SQLite` or `Microsoft.Data.Sqlite`).
+- Setting up a **SQLite connection** in C#.
 - Creating a **Book class** to map the data.
-- Displaying the data using simple **Blazor components** (`<table>` and data binding).
+- Displaying the data using simple **Blazor components**.
 
-**Stretch Goal for Fast Learners:** Add basic styling to the table (optional).
+Add basic styling to the table (optional).
 
 ---
 
@@ -22,7 +24,7 @@ Welcome to the workshop! We'll be building a simple web application using **C#**
 **Learning Points:**
 - Using **C# methods** to insert, update, and delete data in SQLite.
 - Updating the **UI** after making changes (refreshing the data source in Blazor).
-- Handling user input with basic **Blazor forms** (`<InputText>`, `<InputNumber>`).
+- Handling user input with basic **Blazor forms**.
 
 ---
 
