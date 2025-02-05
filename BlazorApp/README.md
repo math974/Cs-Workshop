@@ -56,7 +56,5 @@ Welcome to the workshop! We'll be building a simple web application using **C#**
 
 ---
 
-### **Happy Coding!** 🎉
-
 Feel free to explore further by adding more features or improving the UI as you get comfortable with the concepts!
 
